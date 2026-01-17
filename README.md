@@ -1,3 +1,37 @@
+## 🧩 My Contribution
+
+I contributed to FEM-CARE as part of Winter of Code 5.0 (Open Source Program).
+
+### Key Contributions:
+- Added FastAPI backend service for PCOS risk prediction
+- Integrated ML pipeline with preprocessing and validation
+- Improved API reliability and response structure
+- Worked on backend-service integration
+
+Pull Request: (https://github.com/opencodeiiita/Fem-care/pull/106)
+### What this PR does
+Adds a FastAPI-based backend service for PCOS risk prediction.
+
+### Changes
+- Implemented prediction API endpoint
+- Added model loader and preprocessing
+- Added validation layer
+- Improved response schema
+
+### Why
+This improves backend scalability and enables real-time PCOS risk inference.
+
+### Tech
+FastAPI, Python, ML pipeline
+
+### 🔹 FEM-CARE (Open Source Contributor)
+AI-powered women’s health platform for PCOS risk prediction and wellness tracking.
+
+- Backend contribution: FastAPI PCOS prediction service  
+- ML pipeline integration  
+- Open source contribution (Winter of Code 5.0)
+
+
 # FEM-CARE 
 
 FEM-CARE is an artificial intelligence–powered women’s health assistance platform designed to help users understand and manage symptoms related to PCOS (Polycystic Ovary Syndrome) and hormonal health challenges. The platform combines machine learning, symptom tracking, data visualization, and an empathetic wellness chatbot to provide personalized insights and emotional support in a single, unified application.
